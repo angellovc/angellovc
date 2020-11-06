@@ -1,21 +1,9 @@
-<style> 
-	.skills li {
-		display: flex;
-		align-items: center;
-		flex-wrap: wrap;
-	}
-	.skills li img {
-		padding: 0 10px;
-	}
-</style>
-
-
 <p align="center">
   <img width="100%" src="./magritte-pipe.jpeg">
 </p>
 
 
-# Angello Villegas
+<center> <h2>Angello Villegas</h2> </center>
 Im a Full Stack Software Developer interested in human behavior and how to make developments more attractive to the customers using the behavioral sciences.
 <br/>
 
@@ -82,16 +70,11 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 		</li>
 		<p>Mobile Stack:</p>
 		<li>
-			<img src="Icons/dart.svg" width="100" alt="Dart">			
-			<img src="Icons/flutter.png" width="100" alt="Dart">			
+			<img src="Icons/mobile.png" alt="Dart, Flutter">		
 		</li>
 		<p>Back End Stack:</p>
 		<li>
-			<img src="Icons/flask.png" width="90" alt="Flask">
-			<img src="Icons/sqla.png" width="80" alt="SQLalchemy">
-			<img src="Icons/mysql-original-wordmark.svg" width="80" alt="MySQL">
-			<img src="Icons/python-original-wordmark.svg" width="100" alt="PYTHON">
-			<img src="Icons/vagrant-original-wordmark.svg" width="90" alt="Vagrant">
+			<img src="Icons/back.png" alt="Python, MySQL, Flask,SQLalchemy, Vagrant">
 		</li>
 	</ul>
 </details>
