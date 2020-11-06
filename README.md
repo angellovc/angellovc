@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 style="text-align: center">Angello Villegas</h2>
+<div style="text-align: center"><h2 >Angello Villegas</h2></div>
 Im a Full Stack Software Developer interested in human behavior and how to make developments more attractive to the customers using the behavioral sciences.
 <br/>
 
