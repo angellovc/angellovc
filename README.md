@@ -96,23 +96,23 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 	<summary>🚀&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
 	<br/>
 	<ul style="list-style:none">
-		<p>Low level:</p>
 		<li>
+			<p>Low level:</p>
 			<img src="Icons/c-original.svg" width="60" alt="C">
 		</li>
-		<p>Web Stack Front:</p>
 		<li>
+			<p>Web Stack Front:</p>
 			<img src="Icons/css3-original-wordmark.svg" width="70" alt="CSS">
 			<img src="Icons/html5-original-wordmark.svg" width="70" alt="HTML5">
 			<img src="Icons/javascript-original.svg" width="60" alt="JAVASCRIPT">
 			<img src="Icons/react-original-wordmark.svg" width="60" alt="REACT">
 		</li>
-		<p>Mobile Stack:</p>
 		<li>
+			<p>Mobile Stack:</p>
 			<img src="Icons/mobile.png" alt="Dart, Flutter">		
 		</li>
-		<p>Back End Stack:</p>
 		<li>
+			<p>Back End Stack:</p>
 			<img src="Icons/back.png" alt="Python, MySQL, Flask,SQLalchemy, Vagrant">
 		</li>
 	</ul>
