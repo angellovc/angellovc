@@ -13,18 +13,57 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 	<br/>
 	<ul style="list-style:none">
 		<li>
-			<img src="Icons/terminal.png" width="20">
-			<a href="">Shell</a>
-			<p>Shell Replica using Low Level</p>
+			📱
+			<a href="https://github.com/angellovc/simple_shell">La Haus Brokers</a>
+			<p>La haus app is an application not for customers, but for sellers our app is oriented to improve the service offered by the haus company to people interested in sell a house quickly, smooth and easy, without any burocratic</p>
+			<a href="https://angellovc.github.io/lading-haus-brokers/">🌐 Landing Page</a><br/>
+			<a href="https://www.youtube.com/watch?v=x-9OQeZsKtI&feature=youtu.be">▶️ Demo</a>
+			<ul>
+				<li>
+					<p></p>
+					<p><b>Https:</b>
+					La Haus Brokers app is connected with his own back end which is in charge to do the photo quality assesment</p>
+				</li>
+				<li>
+					<p></p>
+					<p><b>Frameworks:</b>Dart and Flutter</p>
+				</li>
+				<li>
+					<p><b>Design Pattern:</b> Bloc pattern which is recommended by Google</p>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<img src="Icons/browser.png" width="20">
+			<a href="https://github.com/davehh1211/AirBnB_clone_v4">AirBnB-Clone</a>
+			<ul>
+				<li>
+					<p><b>Console:</b> Usefull to test features before these have been uploaded using Python</p>
+				</li>
+				<li>
+					<p><b>Restfull API:</b> An api was created using flask to get all the properties published</p>
+				</li>
+				<li>
+					<p><b>Storage Engine:</b> SQLalchemy which is a python framework is used to store the AirBnB clone information into MySQL data base</p>
+				</li>
+				<li>
+					<p><b>Dynamic Content:</b> The content is retreived from MySQL database and is used dynamically in the webside using Jinja and Javascript</p>
+				</li>
+			</ul>
 		</li>
 		<li>
 			<img src="Icons/terminal.png" width="20">
-			<a href="">Print F</a>
+			<a href="https://github.com/angellovc/simple_shell">Shell</a>
+			<p>Shell Replica, Low Level Project</p>
+		</li>
+		<li>
+			<img src="Icons/terminal.png" width="20">
+			<a href="https://github.com/angellovc/printf">Print F</a>
 			<p>_printf() is a project based on the famous printf function that you can find in C lenguaje</p>
 		</li>
 		<li>
 			<img src="Icons/terminal.png" width="20">
-			<a href="">Standart Library</a>
+			<a href="https://github.com/angellovc/holbertonschool-higher_level_programming">Standart Library</a>
 			<p>This Project series is created to get the first look into the C language by creating the most populars functions found in the standard library</p>
 		</li>
 	</ul>
