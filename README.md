@@ -95,7 +95,7 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 <details>
 	<summary>🚀&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
 	<br/>
-	<ul class="skills" style="list-style:none">
+	<ul style="list-style:none">
 		<p>Low level:</p>
 		<li>
 			<img src="Icons/c-original.svg" width="60" alt="C">
