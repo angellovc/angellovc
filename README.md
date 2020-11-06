@@ -4,6 +4,9 @@
 
 
 <h2 >Angello Villegas</h2>
+
+[![Twitter Badge](https://img.shields.io/badge/-@ngelloVillegas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ngelloVillegas)](https://twitter.com/ngelloVillegas) [![Linkedin Badge](https://img.shields.io/badge/angello-villegas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angello-villegas/)](https://www.linkedin.com/in/angello-villegas/)
+
 Im a Full Stack Software Developer interested in human behavior and how to make developments more attractive to the customers using the behavioral sciences.
 <br/>
 
@@ -117,9 +120,6 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 		</li>
 	</ul>
 </details>
-
-
-#### Find me on
 
 
 
