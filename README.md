@@ -29,7 +29,7 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 					<p><b>Frameworks:</b>Dart and Flutter</p>
 				</li>
 				<li>
-					<p><b>Design Pattern:</b> Bloc pattern which is recommended by Google based on the model view controller</p>
+					<p><b>Design Pattern:</b> based on the model view controller, Bloc is the pattern recommended by Google</p>
 				</li>
 			</ul>
 		</li>
