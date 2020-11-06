@@ -5,7 +5,7 @@
 
 <h2 >Angello Villegas</h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@ngelloVillegas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ngelloVillegas)](https://twitter.com/ngelloVillegas) [![Linkedin Badge](https://img.shields.io/badge/angello-villegas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angello-villegas/)](https://www.linkedin.com/in/angello-villegas/)
+[![Twitter Badge](https://img.shields.io/badge/-@ngelloVillegas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ngelloVillegas)](https://twitter.com/ngelloVillegas) [![Linkedin Badge](https://img.shields.io/badge/Angello-Villegas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angello-villegas/)](https://www.linkedin.com/in/angello-villegas/)
 
 Im a Full Stack Software Developer interested in human behavior and how to make developments more attractive to the customers using the behavioral sciences.
 <br/>
@@ -15,6 +15,11 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 	<summary>🔧&nbsp;&nbsp;&nbsp;<b>Projects</b></summary>
 	<br/>
 	<ul style="list-style:none">
+		<li>
+			<img src="Icons/browser.png" width="20">
+			<a href="https://angellovc.github.io/React-Giphy-App/">React Giphy App</a>
+			<p>React web application connected to giphy Api to fetch gif the user are loocking for. Type in the search bar the kind of gif you want to retreive and press enter to display the giphi gif you want</p>
+		</li>
 		<li>
 			📱
 			<a href="https://github.com/angellovc/simple_shell">La Haus Brokers</a>
