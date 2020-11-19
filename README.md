@@ -26,6 +26,7 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 			<p>La haus app is an application not for customers, but for sellers our app is oriented to improve the service offered by the haus company to people interested in sell a house quickly, smooth and easy, without any burocratic</p>
 			<a href="https://angellovc.github.io/lading-haus-brokers/">🌐 Landing Page</a><br/>
 			<a href="https://www.youtube.com/watch?v=x-9OQeZsKtI&feature=youtu.be">▶️ Demo</a>
+			<a href="https://github.com/MiguelP4lacios/La_Haus_broker">▶️ Repository</a>
 			<ul>
 				<li>
 					<p></p>
