@@ -15,6 +15,82 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 	<summary>🔧&nbsp;&nbsp;&nbsp;<b>Projects</b></summary>
 	<br/>
 	<ul style="list-style:none">
+			<li>
+		<img src="Icons/browser.png" width="20">
+		<a href="https://reactjournalapp.herokuapp.com"> Journal App</a><br/>
+				This is a Journal App developed in React by using the Redux pattern, you can use it to take notes or as journal
+			</p>
+			<a href="https://youtu.be/8qym6BoDxgM">▶️ Journal App Demo</a><br/>
+						<ul>
+				<li>
+					<p><b>React</b></p>
+				</li>
+				<li>
+					<p><b>Redux</b></p>
+				</li>
+				<li>
+					<p><b>Google Authentication</b></p>
+				</li>
+				<li>
+					<p><b>User Authentication</b></p>
+				</li>
+				<li>
+					<p><b>Http request</b></p>
+				</li>
+				<li>
+					<p><b>API integrations</b></p>
+				</li>
+				<li>
+					<p><b>Bootstrap</b></p>
+				</li>
+				<li>
+					<p><b>Ajax</b></p>
+				</li>
+				<li>
+					<p><b>Router and protected Routes</b></p>
+				</li>
+			</ul>
+		</li>
+		<li>
+		<img src="Icons/browser.png" width="20">
+		<a href="http://jobgeolocapp.herokuapp.com/home"> JobGeoloc App</a><br/>
+				This is 24h challenge which leave as a result an application which geolocalization that show a list of Jobs retreiving by an API and show his locations into a Map window.
+				It is simple and very easy to use. 
+			</p>
+			<p>
+				Credentials:
+			</p>
+			<p>
+					user: tvandervort@example.net
+			</p>
+			<p>
+					password: password
+			</p>
+			<a href="https://youtu.be/Uajb6dk4Oqw">▶️ JobGeoloc Demo</a><br/>
+						<ul>
+				<li>
+					<p><b>User Authentication</b></p>
+				</li>
+				<li>
+					<p><b>Http request</b></p>
+				</li>
+				<li>
+					<p><b>API integrations</b></p>
+				</li>
+				<li>
+					<p><b>React</b></p>
+				</li>
+				<li>
+					<p><b>Bootstrap</b></p>
+				</li>
+				<li>
+					<p><b>Ajax</b></p>
+				</li>
+				<li>
+					<p><b>Router and protected Routes</b></p>
+				</li>
+			</ul>
+		</li>
 		<li>
 			<img src="Icons/browser.png" width="20">
 			<a href="https://angellovc.github.io/React-Giphy-App/">React Giphy App</a>
