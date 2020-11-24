@@ -41,10 +41,7 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 					<p><b>API integrations</b></p>
 				</li>
 				<li>
-					<p><b>Bootstrap</b></p>
-				</li>
-				<li>
-					<p><b>Ajax</b></p>
+					<p><b>Sass</b></p>
 				</li>
 				<li>
 					<p><b>Router and protected Routes</b></p>
