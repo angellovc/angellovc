@@ -262,9 +262,7 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 	<summary>🚀&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
 	<br/>
 	<ul style="list-style:none">
-		<li>
-			<img src="Icons/Stack.png" alt="C">
-		</li>
+		<img src="Icons/Stack.png" alt="Stack">
 	</ul>
 </details>
 
