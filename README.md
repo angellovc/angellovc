@@ -25,7 +25,7 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 				If you have questions about how to run the WalkieTalkie client, please go to the sourceCode Github page in which you'll find instructions.
 			</p>
 			<img src="Icons/github.png" width="20">
-			<a href="https://github.com/angellovc/librarian"> 
+			<a href="https://github.com/angellovc/WalkieTalkie"> 
 				WalkieTalkie Source code
 			</a><br/>
 			<p> - Technologies stack:</p>
