@@ -15,13 +15,97 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 	<summary>🔧&nbsp;&nbsp;&nbsp;<b>Projects</b></summary>
 	<br/>
 	<ul style="list-style:none">
-			<li>
-		<img src="Icons/browser.png" width="20">
-		<a href="https://reactjournalapp.herokuapp.com"> Journal App</a><br/>
-				This is a Journal App developed in React by using the Redux pattern, you can use it to take notes or as journal
+		<li>
+			<img src="Icons/terminal.png" width="20">
+			<a href="https://angello.ddns.net"> 
+				Download WalkieTalkie Client
+			</a><br/>
+			<p>
+				WalkieTalkie is a console chat that uses web socket connection for real time communication. It runs in every terminal as long as there's node 14 or upper installed in the PC.
+				If you have questions about how to run the WalkieTalkie client, please go to the sourceCode Github page in which you'll find instructions.
 			</p>
-			<a href="https://youtu.be/8qym6BoDxgM">▶️ Journal App Demo</a><br/>
-						<ul>
+			<img src="Icons/github.png" width="20">
+			<a href="https://github.com/angellovc/librarian"> 
+				WalkieTalkie Source code
+			</a><br/>
+			<p> - Technologies stack:</p>
+			<ul>
+				<li>
+					<p><b>Typescript</b></p>
+				</li>
+				<li>
+					<p><b>Blessed</b></p>
+				</li>
+				<li>
+					<p><b>Inquirer</b></p>
+				</li>
+				<li>
+					<p><b>Socket IO</b></p>
+				</li>
+				<li>
+					<p><b>PM2</b></p>
+				</li>
+				<li>
+					<p><b>Nginx</b></p>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<img src="Icons/browser.png" width="20">
+			<a href="https://angello.ddns.net"> 
+				Librarian App
+			</a><br/>
+			<p>
+				This is a full stack app designed to have a record of the books you've read with reviews and comments on it.
+			</p>
+			<img src="Icons/github.png" width="20">
+			<a href="https://github.com/angellovc/librarian"> 
+				Librarian Source Code
+			</a><br/>
+			<p> - Technologies stack:</p>
+			<ul>
+				<li>
+					<p><b>Typescript</b></p>
+				</li>
+				<li>
+					<p><b>Redux</b></p>
+				</li>
+				<li>
+					<p><b>React</b></p>
+				</li>
+				<li>
+					<p><b>ExpressJs</b></p>
+				</li>
+				<li>
+					<p><b>JWT</b></p>
+				</li>
+				<li>
+					<p><b>Typeorm</b></p>
+				</li>
+				<li>
+					<p><b>Postgresql</b></p>
+				</li>
+				<li>
+					<p><b>Cerbot</b></p>
+				</li>
+				<li>
+					<p><b>Passport JS</b></p>
+				</li>
+				<li>
+					<p><b>PM2</b></p>
+				</li>
+				<li>
+					<p><b>Nginx</b></p>
+				</li>
+			</ul>
+		</li>
+			<li>
+				<img src="Icons/browser.png" width="20">
+				<a href="https://reactjournalapp.herokuapp.com"> Journal App</a><br/>
+				This is a Journal App developed in React by using the Redux pattern, you can use it to take notes or as journal
+				</p>
+				<a href="https://youtu.be/8qym6BoDxgM">▶️ Journal App Demo</a><br/>
+			<ul>
 				<li>
 					<p><b>React</b></p>
 				</li>
@@ -179,23 +263,7 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 	<br/>
 	<ul style="list-style:none">
 		<li>
-			<p>Low level:</p>
-			<img src="Icons/c-original.svg" width="60" alt="C">
-		</li>
-		<li>
-			<p>Web Stack Front:</p>
-			<img src="Icons/css3-original-wordmark.svg" width="70" alt="CSS">
-			<img src="Icons/html5-original-wordmark.svg" width="70" alt="HTML5">
-			<img src="Icons/javascript-original.svg" width="60" alt="JAVASCRIPT">
-			<img src="Icons/react-original-wordmark.svg" width="60" alt="REACT">
-		</li>
-		<li>
-			<p>Mobile Stack:</p>
-			<img src="Icons/mobile.png" alt="Dart, Flutter">		
-		</li>
-		<li>
-			<p>Back End Stack:</p>
-			<img src="Icons/back.png" alt="Python, MySQL, Flask,SQLalchemy, Vagrant">
+			<img src="Icons/Stack.png" alt="C">
 		</li>
 	</ul>
 </details>
