@@ -99,12 +99,44 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 				</li>
 			</ul>
 		</li>
+		<li>
+			<img src="Icons/browser.png" width="20">
+			<a href="https://calendar-react-back.herokuapp.com/"> Calendar App</a><br/>
+			<p>
+				This is a calendar app using Nodejs as a service and MongoDb as Database
+			</p>
+			<p> - Technologies stack:</p>
+			<ul>
+				<li>
+					<p><b>React</b></p>
+				</li>
+				<li>
+					<p><b>Redux</b></p>
+				</li>
+				<li>
+					<p><b>JWT</b></p>
+				</li>
+				<li>
+					<p><b>MongoDB</b></p>
+				</li>
+				<li>
+					<p><b>NodeJS</b></p>
+				</li>
+				<li>
+					<p><b>Mongoose</b></p>
+				</li>
+				<li>
+					<p><b>Heroku CLI</b></p>
+				</li>
+			</ul>
+		</li>
 			<li>
 				<img src="Icons/browser.png" width="20">
 				<a href="https://reactjournalapp.herokuapp.com"> Journal App</a><br/>
 				This is a Journal App developed in React by using the Redux pattern, you can use it to take notes or as journal
 				</p>
 				<a href="https://youtu.be/8qym6BoDxgM">▶️ Journal App Demo</a><br/>
+			<p> - Technologies stack:</p>
 			<ul>
 				<li>
 					<p><b>React</b></p>
@@ -148,6 +180,7 @@ Im a Full Stack Software Developer interested in human behavior and how to make 
 					password: password
 			</p>
 			<a href="https://youtu.be/Uajb6dk4Oqw">▶️ JobGeoloc Demo</a><br/>
+			<p> - Technologies stack:</p>
 						<ul>
 				<li>
 					<p><b>User Authentication</b></p>
